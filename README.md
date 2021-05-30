@@ -1,6 +1,8 @@
 # MLinStockMarket
-Source code of my theisis(written in Turkish) “Makine Öğrenmesi Algoritmaları ile Hisse Senedi Hareket Yönü Tahmini” [Predicting the Direction of Stock Market Prizes with Machine Learning Algorithms], 3. Ulusal Başkent Disiplinler Arası Bilimsel Çalışma Kongresi, 2021
+Source code of my theisis(written in Turkish): “Makine Öğrenmesi Algoritmaları ile Hisse Senedi Hareket Yönü Tahmini” [Predicting the Direction of Stock Market Prizes with Machine Learning Algorithms], 3. Ulusal Başkent Disiplinler Arası Bilimsel Çalışma Kongresi, 2021
+
 You can find full text here : https://www.izdas.org/books
+
 Contact me at: umutcanakdag@hotmail.com
 
 SUMMARY 
